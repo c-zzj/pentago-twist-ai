@@ -1,4 +1,4 @@
-# An AI Agent for Pentago-Twist
+# An AI Player for Pentago-Twist
 
 An AI agent for Pentago-Twist, a game modified from Pentago. This serves as the final project for COMP 424 (Artificial Intelligence) at McGill University.
 
